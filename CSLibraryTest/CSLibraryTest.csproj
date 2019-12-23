@@ -36,6 +36,12 @@
     <Reference Include="CSAc4yUtilityFW">
       <HintPath>..\..\..\..\..\..\library\LPCsharp\CSAc4yUtilityFW.dll</HintPath>
     </Reference>
+    <Reference Include="CSUgyDraftLibrary">
+      <HintPath>..\..\..\..\..\library\LPCsharp\ak\CSUgyDraftLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="CSUgynokTabla">
+      <HintPath>..\..\..\..\..\library\LPCsharp\ak\CSUgynokTabla.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,6 +54,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ugy_Kezeles%40Halmaz.cs" />
+    <Compile Include="Ugy_KezelesKonstans.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
