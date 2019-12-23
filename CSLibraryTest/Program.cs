@@ -10,7 +10,7 @@ namespace CSLibraryTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hali!");
+            Console.WriteLine("Hali!"); 
         }
     }
 }
