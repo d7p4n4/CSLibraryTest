@@ -33,20 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CSAc4yClassFW">
-      <HintPath>..\..\..\..\..\library\LPCsharp\CSAc4yClassFW.dll</HintPath>
-    </Reference>
-    <Reference Include="CSAc4yFW">
-      <HintPath>..\..\..\..\..\library\LPCsharp\CSAc4yFW.dll</HintPath>
-    </Reference>
-    <Reference Include="CSAc4yObjectDBCapFW">
-      <HintPath>..\..\..\..\..\library\LPCsharp\CSAc4yObjectDBCapFW.dll</HintPath>
-    </Reference>
-    <Reference Include="CSAc4yObjectObjectServiceFW">
-      <HintPath>..\..\..\..\..\library\LPCsharp\CSAc4yObjectObjectServiceFW.dll</HintPath>
-    </Reference>
-    <Reference Include="CSAc4yObjectServiceWF">
-      <HintPath>..\..\..\..\..\library\LPCsharp\CSAc4yObjectServiceWF.dll</HintPath>
+    <Reference Include="CSAc4yUtilityFW">
+      <HintPath>..\..\..\..\..\..\library\LPCsharp\CSAc4yUtilityFW.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
